@@ -30,7 +30,7 @@ var lifeTimer = 100;
 var gameState = "home";
 var game = "notInter";
 var lives = 100;
-var wave = 10;
+var wave = 1;
 var skeletonCount = 5;
 
 var iniciowave = 1;
